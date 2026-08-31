@@ -1,0 +1,5 @@
+configuration,V_VR_mL,V_PE_mL,V_RE_mL,t95_fill_s,delta_q_art_percent,net_effective_return_mL,tau_first_order_s,source
+"No valves, supine",0.87,0.1,0.46,1.69,106,0.41,0.5641358591751146,"Keijsers et al. 2015, DOI 10.1002/cnm.2714, Table 3"
+"Valves, supine",0.88,0.17,0.0,2.62,97,0.88,0.8745774858217753,"Keijsers et al. 2015, DOI 10.1002/cnm.2714, Table 3"
+"Valves, upright",0.92,0.26,0.0,2.45,97,0.92,0.8178300917035686,"Keijsers et al. 2015, DOI 10.1002/cnm.2714, Table 3"
+"Deep-superficial, upright",0.85,0.16,0.0,1.54,6,0.85,0.5140646290708145,"Keijsers et al. 2015, DOI 10.1002/cnm.2714, Table 3"

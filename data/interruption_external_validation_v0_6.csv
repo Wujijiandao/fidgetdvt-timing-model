@@ -1,0 +1,8 @@
+source,condition,time_min,effect,endpoint,notes
+Hitos2007,Sitting still,100,-42.0,Popliteal volume flow % from baseline,No exercise
+Hitos2007,Airline-recommended activities,100,-17.0,Popliteal volume flow % from baseline,"Activities; paper states 30 s every 15–20 min overall protocol, airline activities every hour"
+Hitos2007,Foot exercises,100,-16.0,Popliteal volume flow % from baseline,Active calf/foot pump
+Hitos2007,Foot exercises moderate resistance,100,2.2,Popliteal volume flow % from baseline,Active plantar/dorsiflexion with resistance
+Hitos2007,Foot exercises increased resistance,100,5.8,Popliteal volume flow % from baseline,Maximal foot/calf contraction apparatus
+Howard2013,Uninterrupted sitting,300,0.24,Fibrinogen change g/L,5-h randomized crossover; sedentary overweight/obese adults
+Howard2013,Light walking breaks every 20 min,300,-0.17,Attenuation of fibrinogen increase g/L,2-min light walking every 20 min vs uninterrupted sitting

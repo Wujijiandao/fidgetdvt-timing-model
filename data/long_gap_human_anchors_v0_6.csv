@@ -1,0 +1,10 @@
+source,observable,condition,time_min,value,unit,fractional_change_magnitude,notes
+Hitos2007,Popliteal blood volume flow,baseline,0,0.77,mL/s,0.0,Healthy seated adults; feet flat
+Hitos2007,Popliteal blood volume flow,sitting still,65,0.5467,mL/s,0.29,29% decrease vs baseline stated in text
+Hitos2007,Popliteal blood volume flow,sitting still,100,0.44,mL/s,0.42,42% decrease vs baseline
+Moyses1987,Foot venous hematocrit,baseline,0,41.0,%,0.0,Healthy subjects; foot dependent
+Moyses1987,Foot venous hematocrit,sitting still,20,49.0,%,0.19512195121951215,Local hemoconcentration
+Moyses1987,Foot venous hematocrit,sitting still,40,51.0,%,0.24390243902439024,Local hemoconcentration
+Moyses1987,Foot venous plasma protein,baseline,0,6.5,g/dL,0.0,Healthy subjects; foot dependent
+Moyses1987,Foot venous plasma protein,sitting still,20,8.0,g/dL,0.23076923076923084,Local hemoconcentration
+Moyses1987,Foot venous plasma protein,sitting still,40,9.0,g/dL,0.3846153846153846,Local hemoconcentration

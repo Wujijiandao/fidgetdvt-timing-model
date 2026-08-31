@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated article when available."
+title: "FidgetDVT Timing Model"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Yuzhan
+    orcid: "https://orcid.org/0009-0000-3121-7972"
+    affiliation: "Independent Researcher, Beijing, China"
+version: "1.0.0"
+date-released: "2026-08-31"
+license: MIT
+repository-code: "https://github.com/<OWNER>/fidgetdvt-timing-model"
+keywords:
+  - "venous hemodynamics"
+  - "calf muscle pump"
+  - "prolonged sitting"
+  - "biomechanics"
+  - "biofluid mechanics"
+  - "Doppler ultrasound"
+  - "venous stasis"
+  - "temporal patterning"
+  - "deep vein thrombosis"
+  - "reproducible research"
+  - "scientific Python"
+  - "computational modeling"
